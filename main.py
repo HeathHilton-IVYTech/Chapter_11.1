@@ -1,2 +1,2 @@
-import zoo
-print(zoo.hours())
+import zoo as menagerie
+print(menagerie.hours())
